@@ -1,6 +1,7 @@
      Hi👋, My name is Malafakumo
 
  I'm a skilled Software Test Engineer 
+I'm passionate about ensuring quality in software products.
 
 - 🔭 I’m currently working with Summa Logix as a Software Test Engineer
 
