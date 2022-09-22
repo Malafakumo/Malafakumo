@@ -30,7 +30,8 @@ I'm passionate about ensuring quality in software products.
 
 
 
-- 🐾Connect with me on: https://www.linkedin.com/in/akpos-malafakumo-best-b16ba818b/
+- 🐾Connect with me on:
+      https://t.ly/NVXYH 
 
 
 
