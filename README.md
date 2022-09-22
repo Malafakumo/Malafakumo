@@ -25,5 +25,5 @@ I'm passionate about ensuring quality in software products.
 
 
 # Tools
-![0vyVbD-ti](https://user-images.githubusercontent.com/105721305/191764864-3ce77bef-790e-4e74-9f3e-cc34cd053faa.jpg)
-![0vyVbD-ti](https://user-images.githubusercontent.com/105721305/191765470-ab20174c-580f-4053-9f16-042fafd7d42f.jpg)
+![0vyVbD-ti](https://user-images.githubusercontent.com/105721305/191766340-e5844e95-4e74-4ca9-ba55-32f83e574d52.jpg)
+
