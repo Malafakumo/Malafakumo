@@ -25,8 +25,8 @@ I'm passionate about ensuring quality in software products.
 
 
 # Tools
-![atlassian-jira-logo-large](https://user-images.githubusercontent.com/105721305/191767779-e3ec9e4d-ec53-4fc5-86a2-a0ffe5207dd6.png)
-![selenium-logo-DB9103D7CF-seeklogo com](https://user-images.githubusercontent.com/105721305/191767787-6e41a657-ce23-417b-8e0d-e7f06362364e.png)
-![download](https://user-images.githubusercontent.com/105721305/191767789-a1cfd241-bcff-4bb3-9ee7-31f1e7a1718d.png)
-![0vyVbD-ti](https://user-images.githubusercontent.com/105721305/191767795-864019c9-7fd6-49bb-8dc3-bea0e522883d.jpg)
+![atlassian-jira-logo-large](https://user-images.githubusercontent.com/105721305/191768419-810d21e7-00f2-4c0d-abd6-9dc29b12fec4.png)
+![selenium-logo-DB9103D7CF-seeklogo com](https://user-images.githubusercontent.com/105721305/191768430-f7434d01-ee9d-485c-88d9-7fec84860c7f.png)
+![download](https://user-images.githubusercontent.com/105721305/191768434-68778263-bec0-4333-8b69-1a99f3133378.png)
+![0vyVbD-ti](https://user-images.githubusercontent.com/105721305/191768438-665b6361-447f-4184-8668-a9181ecacba7.jpg)
 
