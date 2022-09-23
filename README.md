@@ -37,5 +37,7 @@ I'm passionate about ensuring quality in software products.
 
 # Tools
 ![postman-logo-vert-2018](https://user-images.githubusercontent.com/105721305/191931533-303fde4c-7d69-44f4-970b-f02ee833081f.jpg)
+ 
+ ![Jira_logo_n](https://user-images.githubusercontent.com/105721305/191932036-f12b8383-8bf4-410c-b088-9273fcfcd600.png)
 
 
