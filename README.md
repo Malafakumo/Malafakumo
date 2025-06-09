@@ -6,7 +6,7 @@
 I'm passionate about ensuring quality in software products.
 
 
-- 🔭 I’m currently working with Wema Bank as a Quality Assurance Officer
+- 🔭 I’m currently working with FCMB as a Quality Assurance Officer
 
 
 
